@@ -16,6 +16,6 @@ public:
             end = mid-1;
         }
      }   
-     return ans_indx-1;
+     return ans_indx;
     }
 };
