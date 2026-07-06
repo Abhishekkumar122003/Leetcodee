@@ -1,3 +1,4 @@
+// This take Nlog(N) 
 class Solution {
   public:
     int minTime(vector<int>& arr, int k) {
